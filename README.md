@@ -1,6 +1,6 @@
 # CET: Counterfactual Explanation Tree
 
-Temporary repository for our paper: "*Counterfactual Explanation Trees: Transparent and Consistent Actionable Recourse with Decision Trees*," to apper in AISTATS-22.
+Temporary repository for our paper: "*[Counterfactual Explanation Trees: Transparent and Consistent Actionable Recourse with Decision Trees](https://proceedings.mlr.press/v151/kanamori22a.html)*," to apper in AISTATS-22.
 
 CET is a framework of Counterfactual Explanation (CE) that summarizes actions over the entire input space by a decision tree. 
 
@@ -75,13 +75,13 @@ $ python demo.py
 ```
 
 
-## Citation (temporary)
+## Citation
 ```
 @InProceedings{Kanamori:AISTATS2022,
   title = {{Counterfactual Explanation Trees: Transparent and Consistent Actionable Recourse with Decision Trees}},
   author = {Kanamori, Kentaro and Takagi, Takuya and Kobayashi, Ken and Ike, Yuichi},
   booktitle = {Proceedings of the 25th International Conference on Artificial Intelligence and Statistics},
-  OPTpages = {to appear},
+  pages = {1846-1870},
   year = {2022},
 }
 ```
